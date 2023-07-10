@@ -7,3 +7,5 @@ https://drive.google.com/drive/folders/1deAO-MCKbGaP03KyCdf-yc16BQOEst6n?usp=sha
 DLS_Final_Projects_CycleGAN_maps2foto_bot.ipynb 
 DLS_Final_Projects_CycleGAN_art2foto_bot.ipynb
 Отчет в отдельном pdf файле
+Поиграть с параметрами моделей необходимо время и ресурсы:
+Крайние прогоны с немного измененым дискриминатором показали лучше результат. Постараюсь выложить дополнение.
